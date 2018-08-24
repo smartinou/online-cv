@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: mgaron73@hotmail.com
     phone: 418 529 6101
-    website: samrtinou.github.io #do not add http://
+    website: smartinou.github.io #do not add http://
     linkedin: Martin Garon
     github: smartinou
     #gitlab:
@@ -29,6 +29,9 @@ sidebar:
 
       - idiom: English
         level: Professional
+        
+      - idiom: German, Japanese
+        level: Introductory
 
     interests:
       - item: Yoga and martial arts
@@ -43,31 +46,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      20 years+ in embedded firmware programming, firmware and system architecture.
+      Striving on grit, rejecting status quo, believing in innovation.
 
-      Second paragraph if required.
+#      Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor's degree Electrical and Electronics Engineering
+      university: University Laval
+      time: 1992 - 1996
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Specialization in micro-electronics.
 
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Micro certificate in Computer Science
+      university: University Laval
+      time: 2002 - 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
