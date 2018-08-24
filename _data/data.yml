@@ -3,44 +3,41 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Martin Garon
+    tagline: Embedded Firmware Designer
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    email: mgaron73@hotmail.com
+    phone: 418 529 6101
+    website: samrtinou.github.io #do not add http://
+    linkedin: Martin Garon
+    github: smartinou
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
 
     languages:
-      - idiom: English
+      - idiom: French
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-        
     interests:
-      - item: Climbing
+      - item: Yoga and martial arts
         link:
 
-      - item: Snowboarding
+      - item: Playing guitar
         link:
 
-      - item: Cooking
+      - item: Motorcycles
         link:
 
 career-profile:
