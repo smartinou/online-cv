@@ -80,7 +80,7 @@ experiences:
       company: Pleora Technologies
       details: |
         Design and realize embedded FW applications.
-        Provide main leadership for FW architecture and contribute to HW architecture.
+        Lead FW design/architecture and contribute to HW architecture.
         Define and improve working methods for whole R&D team.
 
           - Design, coding and maintenance of embedded FW program in C/C++ for 1G/10Gbps Ethernet,
@@ -91,33 +91,23 @@ experiences:
           - Defining and improving working methods for whole R&D team.
           - Managing Agile development flow: creation/assignment of tasks, management of sprints.
           - Participating in HW architecture development.
+          - Maintaining FPGA system IP core libraries (code organization, component hierarchy).
           - Actively maintaining blog of new ideas and skunk work.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Firmware Engineer
+      time: 2003 - 2005
+      company: Dectro International
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Design/code/debug firmware application for beauty parlor/medical appliances.
+        Code support tools for development and production.
+        Support HW design: architecture, choice of components.
+        Improve development methods.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Designing, coding and debugging of computer-assisted RF epilation apparatus (LCD, smart card, printer).
+          - Designing, coding and debugging of support tools for programming of smart cards, generation of sounds and images.
+          - Designing and programming of PLD using VHDL.
+          - Installation of revision control system.
+          - Creating template for sources and documents.
 
 projects:
     title: Projects
@@ -149,45 +139,32 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    #intro: |
+      #You can list your publications in this section.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Edge Detection and Tracking System Method", application 2 269 171 (OPIC)
+        #authors: Donald E. Knuth
+        conference: April 14th, 1999
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C++
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: HDL (VHDL, Verilog)
+        level: 70%
 
-      - name: HTML5 & CSS
+      - name: SPI, I2C
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: TCP/IP, UDP, IP, ICMP, ARP, HTTP
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
