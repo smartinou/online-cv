@@ -40,7 +40,7 @@ sidebar:
       - item: Playing guitar
         link:
 
-      - item: Motorcycles
+      - item: Riding motorcycles
         link:
 
 career-profile:
@@ -75,22 +75,23 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Principle Firmware Developer
+      time: 2005 - Present
+      company: Pleora Technologies
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Design and realize embedded FW applications.
+        Provide main leadership for FW architecture and contribute to HW architecture.
+        Define and improve working methods for whole R&D team.
 
-          - Bullet point
-          - Bullet point 
+          - Design, coding and maintenance of embedded FW program in C/C++ for 1G/10Gbps Ethernet,
+          running in MCU (GigEVision Protocol).
+          - Design, coding and maintenance of embedded FW program in C/C++ over USB3.0,
+          running in MCU (U3V Protocol).
+          - Porting RTOSes over embedded Soft MCU (NiosII, MicroBlaze).
+          - Defining and improving working methods for whole R&D team.
+          - Managing Agile development flow: creation/assignment of tasks, management of sprints.
+          - Participating in HW architecture development.
+          - Actively maintaining blog of new ideas and skunk work.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
