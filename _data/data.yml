@@ -47,9 +47,9 @@ career-profile:
     title: Career Profile
     summary: |
       20 years+ in embedded firmware programming, firmware and system architecture.
-      Striving on grit, rejecting status quo, believing in innovation.
 
 #      Second paragraph if required.
+      Embracing grit, rejecting status quo, cherishing innovation.
 
 education:
     - degree: Bachelor's degree Electrical and Electronics Engineering
@@ -58,21 +58,16 @@ education:
       details: |
         Specialization in micro-electronics.
 
-          - Bullet point
-          - Bullet point 
+          #- Bullet point
+          #- Bullet point 
 
     - degree: Micro certificate in Computer Science
       university: University Laval
       time: 2002 - 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
+          #- Bullet point
+          #- Bullet point 
 
 experiences:
     - role: Principle Firmware Developer
@@ -88,11 +83,11 @@ experiences:
           - Design, coding and maintenance of embedded FW program in C/C++ over USB3.0,
           running in MCU (U3V Protocol).
           - Porting RTOSes over embedded Soft MCU (NiosII, MicroBlaze).
-          - Defining and improving working methods for whole R&D team.
-          - Managing Agile development flow: creation/assignment of tasks, management of sprints.
-          - Participating in HW architecture development.
-          - Maintaining FPGA system IP core libraries (code organization, component hierarchy).
-          - Actively maintaining blog of new ideas and skunk work.
+          - Definition and improvement of working methods for whole R&D team.
+          - Management of Agile development flow: creation/assignment of tasks, management of sprints.
+          - Participation in HW architecture development.
+          - Maintainance of FPGA system IP core libraries (code organization, component hierarchy).
+          - Active contribution of blog entries forf new ideas and skunk work.
 
     - role: Firmware Engineer
       time: 2003 - 2005
@@ -103,39 +98,23 @@ experiences:
         Support HW design: architecture, choice of components.
         Improve development methods.
 
-          - Designing, coding and debugging of computer-assisted RF epilation apparatus (LCD, smart card, printer).
-          - Designing, coding and debugging of support tools for programming of smart cards, generation of sounds and images.
-          - Designing and programming of PLD using VHDL.
+          - Design, coding and debugging of computer-assisted RF epilation apparatus (LCD, smart card, printer).
+          - Design, coding and debugging of support tools for programming of smart cards, generation of sounds and images.
+          - Design and programming of PLD using VHDL.
           - Installation of revision control system.
-          - Creating template for sources and documents.
+          - Creation of templates for sources and documents.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
     title: Publications
@@ -143,7 +122,7 @@ publications:
       #You can list your publications in this section.
 
     papers:
-      - title: "Edge Detection and Tracking System Method", application 2 269 171 (OPIC)
+      - title: Patent "Edge Detection and Tracking System Method", application 2 269 171 (OPIC)
         #authors: Donald E. Knuth
         conference: April 14th, 1999
 
