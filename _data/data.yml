@@ -48,7 +48,6 @@ career-profile:
     summary: |
       20 years+ in embedded firmware programming, firmware and system architecture.
 
-#      Second paragraph if required.
       Embracing grit, rejecting status quo, cherishing innovation.
 
 education:
@@ -142,7 +141,7 @@ skills:
       - name: SPI, I2C
         level: 95%
 
-      - name: TCP/IP, UDP, IP, ICMP, ARP, HTTP
+      - name: IPv4, UDP, IP, ICMP, ARP, HTTP
         level: 95%
 
 footer: >
